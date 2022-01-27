@@ -1,0 +1,55 @@
+body {
+    background-image: url(../images/187161.jpg);
+    background-size: contain;
+}
+
+a {
+    cursor: pointer;
+    color:thistle;
+}
+
+img {
+    width: 650px;
+    height: 350px;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+p {
+    color:lightsteelblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+p.about {
+    text-align:left;
+}
+
+hr
+{
+    text-align: center;
+    border: 1px solid rgb(57, 31, 175);
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:saddlebrown;
+    text-shadow: 2px 0.5px tan;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:darksalmon;
+}
+
+.contact {
+    text-align: right;
+    color:violet;
+}
